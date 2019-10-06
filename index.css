@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0
+}
+body
+{
+    background: linear-gradient(to right, rgba(255, 20, 20, 0.87) 30%, rgb(247, 171, 9) 70%);
+
+}
+#father{
+    height: 20.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: rgb(243, 231, 231);
+    font-size: 1.6rem;
+    text-align: center;
+}
+#hora
+{
+    margin-bottom: 2rem;
+}
